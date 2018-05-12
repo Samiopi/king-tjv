@@ -1,0 +1,14 @@
+{
+  "name": "King's Bot",
+  "version": "0.0.1",
+  "description": "A bot for Discord",
+  "author": "Samiopi",
+  "scripts": {
+    "test": "echo \"Error: no test specified" && exit 1"  
+  },
+  "license": "MIT",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "*",
+  }
+}
